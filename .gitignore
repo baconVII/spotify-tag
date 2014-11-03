@@ -1,3 +1,6 @@
 .*
 !.gitignore
 *.iml
+bsp
+node_modules
+npm-debug.log
