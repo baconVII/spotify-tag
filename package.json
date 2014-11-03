@@ -1,0 +1,9 @@
+{
+  "name": "spotify-tag",
+  "description": "Tags for Spotify",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.0.0"
+  }
+}
